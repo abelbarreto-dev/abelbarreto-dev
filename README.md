@@ -6,6 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abelbcarvalho" alt="abelbcarvalho" /></a> </p>
 
 - 🔭 I’m currently working on [Money Manager](https://github.com/abelbcarvalho/moneymanager)
+- Another GitHub Profiles
+- [Abel Coder 759](https://github.com/AbelCoder759)
+- [BCarSoft](https://github.com/bcarsoft)
+
+### Projects I worked...
+
+- Java - [Scop](https://github.com/jonatasfbastos/scop)
 
 - 📫 How to reach me **abelbdecarvalho@gmail.com**
 
