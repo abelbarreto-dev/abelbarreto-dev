@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abelbcarvalho" alt="abelbcarvalho" /></a> </p>
 
+- 🔭 I’m currently working on [Money Manager](https://github.com/abelbcarvalho/moneymanager)
+
 - 📫 How to reach me **abelbdecarvalho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
