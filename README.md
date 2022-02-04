@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abel Carvalho</h1>
-<h3 align="center">Python Developer from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Abel Carvalho</h1>
+<h3 align="left">Python Developer from Brazil</h3>
+
+I am Abel, and have been working with Python since mid-2019. My goals are set, to succeed as a developer and to undertake. I am willing to devote myself with optimism and willpower to the opportunities they suggest. I don’t know everything, but I am open to learning and contributing, thus overcoming the challenges. I also have experience with Java.
+
+### Current Repository
 
 - 🔭 I’m currently working on [Money Manager](https://github.com/abelbcarvalho/moneymanager)
 
@@ -18,7 +22,7 @@
 - File Download with Python3 and Tkinter:
 - Repoisitory [Downloader](https://github.com/bcarsoft/downloader)
 
-### Contato
+### Contact
 
 - 📫 How to reach me **abelbdecarvalho@gmail.com**
 
