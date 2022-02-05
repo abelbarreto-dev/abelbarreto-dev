@@ -26,7 +26,7 @@ I am Abel, and have been working with Python since mid-2019, but I code since 20
 
 - 📫 How to reach me **abelbdecarvalho@gmail.com**
 
-![Visitor count](https://gpvc.arturio.dev/nanotecnologista)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://gpvc.arturio.dev/abelbcarvalho)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
