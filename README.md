@@ -27,6 +27,7 @@ I am Abel, and have been working with Python since mid-2019, but I code since 20
 ### Contact
 
 - 📫 How to reach me **abelbdecarvalho@gmail.com**
+- Another e-mail: **abelbarretodecarvalho@gmail.com**
 - My [Portfólio](https://abelbcarvalho.github.io/)
 
 ![Visitor count](https://gpvc.arturio.dev/abelbcarvalho)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
