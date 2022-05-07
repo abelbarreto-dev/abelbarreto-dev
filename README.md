@@ -7,6 +7,7 @@ I am Abel, and have been working with Python since mid-2019, but I code since 20
 
 - 🔭 I'm working on [Money Manager](https://github.com/abelbcarvalho/moneymanager)
 - 🔭 I'm working on [PDF to Docx](https://github.com/abelbcarvalho/pdftodocx)
+- 🔭 I'm working on [Get Colorful Pictures](https://github.com/abelbcarvalho/get-colorful)
 
 ### My alternatives GitHub Profiles
 
