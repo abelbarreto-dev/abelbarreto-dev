@@ -1,14 +1,15 @@
 <h1 align="left">Hi 👋, I'm Abel Carvalho</h1>
 <h3 align="left">Python Developer from Brazil</h3>
 
-I am Abel, and have been working with Python since mid-2019, but I code since 2017 when I learned my firts steps. My goals are set, to succeed as a developer and to undertake. I am willing to devote myself with optimism and willpower to the opportunities they suggest. I don’t know everything, but I am open to learning and contributing, thus overcoming the challenges. I also have experience with Java.
+Graduating in the course of Systems Analysis and Development, focusing on Back-End Developer, with the objective of creating applications, managing software versions, planning, proposing, and assisting with the definition of the architecture of the systems under development.
+
+I have already developed projects in college with agile methodologies, in question Scrum, when I worked as a back-end developer for the first time, I met Kanban, and lastly I worked with the "scrumban" concept, as I started using Jira.
+
+I learned unit testing with Python (pytest) in addition to the Python language itself with the help of a lot of research and online courses, but also with professional experience. I have basic knowledge of JavaScript and Retool. I learned how to use AWS Cloud and Serverless framework, I also know how to use Django, Flask and FastAPI frameworks, either in REST or SOUP architecture, I'm learning SOLID. I am open to feedbacks and I believe that feedbacks are tools for improvement.
 
 ### Current Repository
 
-- 🔭 I'm working on [Money Manager](https://github.com/abelbcarvalho/moneymanager)
-- 🔭 I'm working on [PDF to Docx](https://github.com/abelbcarvalho/pdftodocx)
-- 🔭 I'm working on [Get Colorful Pictures](https://github.com/abelbcarvalho/get-colorful)
-- 🔭 I'm working on [API Contatos](https://github.com/abelbcarvalho/contatos-fast)
+- 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
 
 ### My alternatives GitHub Profiles
 
@@ -27,9 +28,9 @@ I am Abel, and have been working with Python since mid-2019, but I code since 20
 
 ### Contact
 
-- 📫 How to reach me **abelbdecarvalho@gmail.com**
+- 📫 How to reach me **abelbcarvalho.dev@gmail.com**
 - Another e-mail: **abelbarretodecarvalho@gmail.com**
-- My [Portfólio](https://abelbcarvalho.github.io/)
+- [My Portfólio](https://abelbcarvalho.github.io/)
 
 ![Visitor count](https://gpvc.arturio.dev/abelbcarvalho)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
