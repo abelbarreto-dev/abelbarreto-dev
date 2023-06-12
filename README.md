@@ -9,7 +9,8 @@ I learned unit testing with Python (pytest) in addition to the Python language i
 
 ### Current Repository
 
-- 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
+- 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet) PAUSED
+- 🔭 I'm working on [PHP Better Bet](https://github.com/abelbarreto-dev/php-better-bet)
 
 ### My alternatives GitHub Profiles
 
