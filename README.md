@@ -1,13 +1,17 @@
 <h1 align="left">Hi 👋, I'm Abel Carvalho</h1>
-<h3 align="left">Python Developer from Brazil</h3>
+<h3 align="left">Python Backend Developer from Brazil</h3>
 
-Graduating in the course of Systems Analysis and Development, focusing on Back-End Developer, with the objective of creating applications, managing software versions, planning, proposing, and assisting with the definition of the architecture of the systems under development.
+I am Abel, and I am here to learn and succeed. I started delving into software development as an enthusiast around 2016/17. I have always had a great curiosity for learning new things until I stumbled upon something that resonated with me deeply - that's when I discovered Python.
 
-I have already developed projects in college with agile methodologies, in question Scrum, when I worked as a back-end developer for the first time, I met Kanban, and lastly I worked with the "scrumban" concept, as I started using Jira.
+I am pursuing this career because, above all, I believe that technology is a tool for saving time and enhancing efficiency for humanity, leading to significant transformations.
 
-I learned unit testing with Python (pytest) in addition to the Python language itself with the help of a lot of research and online courses, but also with professional experience. I have basic knowledge of JavaScript and Retool. I learned how to use AWS Cloud and Serverless framework, I also know how to use Django, Flask and FastAPI frameworks, either in REST or SOUP architecture, I'm learning SOLID. I am open to feedbacks and I believe that feedbacks are tools for improvement.
+I have gained one year of experience working as a backend developer, primarily using Python to craft APIs. Along the way, I also acquired knowledge about serverless concepts and AWS resources, such as lambdas. Additionally, I have experience with MySQL and PostgreSQL databases. I have completed courses on the Django framework, as well as agile methodologies, from Kanban to Scrum, and version control. I must also mention that I am an enthusiast of the Laravel framework in the PHP realm.
 
-### Current Repository
+I understand that success can be challenging, but the key lies in persistence and the acquisition of hard and soft skills.
+
+I am open to suggestions and opportunities, whether freelance or effective. I also have to say that I am graduating from the Faculty of Systems Analysis and Development.
+
+### Current Projects
 
 - 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet) PAUSED
 - 🔭 I'm working on [PHP Better Bet](https://github.com/abelbarreto-dev/php-better-bet)
@@ -19,10 +23,12 @@ I learned unit testing with Python (pytest) in addition to the Python language i
 
 ### Projects I worked...
 
-- Java - [Scop](https://github.com/abelbcarvalho/scop)
+- Java - [Scop](https://github.com/abelbcarvalho/scop) (LEGAGY)
 
 
 ### File Downloader
+
+It need to be upgrade**
 
 - File Download with Python3 and Tkinter:
 - Repoisitory [Downloader](https://github.com/bcarsoft/downloader)
