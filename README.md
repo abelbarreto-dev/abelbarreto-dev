@@ -13,7 +13,7 @@ I am open to suggestions and opportunities, whether freelance or effective. I al
 
 ### Current Projects
 
-- 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet) PAUSED
+- 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
 - 🔭 I'm working on [PHP Better Bet](https://github.com/abelbarreto-dev/php-better-bet)
 
 ### My alternatives GitHub Profiles
