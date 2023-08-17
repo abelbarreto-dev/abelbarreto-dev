@@ -1,37 +1,29 @@
 <h1 align="left">Hi 👋, I'm Abel Carvalho</h1>
 <h3 align="left">Python Backend Developer from Brazil</h3>
 
-I am Abel, and I am here to learn and succeed. I started delving into software development as an enthusiast around 2016/17. I have always had a great curiosity for learning new things until I stumbled upon something that resonated with me deeply - that's when I discovered Python.
+Hello,
 
-I am pursuing this career because, above all, I believe that technology is a tool for saving time and enhancing efficiency for humanity, leading to significant transformations.
+My name is Abel and I'm a Python developer. Python is my favorite language. I've about 1 year of experience in backend development and I'm sure that working in development is above all about thinking and bringing solutions. I must say that I consider other skills such as communication and teamwork as pillars today as necessary as the skill and mastery of programming logic. I'm always willing to learn what is necessary to perform my job in the best possible way and I consider excellence my greatest and main goal.
 
-I have gained one year of experience working as a backend developer, primarily using Python to craft APIs. Along the way, I also acquired knowledge about serverless concepts and AWS resources, such as lambdas. Additionally, I have experience with MySQL and PostgreSQL databases. I have completed courses on the Django framework, as well as agile methodologies, from Kanban to Scrum, and version control. I must also mention that I am an enthusiast of the Laravel framework in the PHP realm.
+### Speciality
 
-I understand that success can be challenging, but the key lies in persistence and the acquisition of hard and soft skills.
-
-I am open to suggestions and opportunities, whether freelance or effective. I also have to say that I am graduating from the Faculty of Systems Analysis and Development.
+Main main skill is surelly to develop API's and Backend Development.
 
 ### Current Projects
 
 - 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
-- 🔭 I'm working on [PHP Better Bet](https://github.com/abelbarreto-dev/php-better-bet)
+- 🔭 I'm working on [Earn Golden](https://github.com/abelbarreto-dev/earn-golden)
+- 🔭 I'm working on [](https://github.com/abelbarreto-dev/savepass-api)
 
 ### My alternatives GitHub Profiles
 
 - [Abel Coder](https://github.com/AbelCoder754)
 - [BCarSoft](https://github.com/bcarsoft)
+- [Savepass-API](https://github.com/abelbarreto-dev/savepass-api)
 
 ### Projects I worked...
 
-- Java - [Scop](https://github.com/abelbcarvalho/scop) (LEGAGY)
-
-
-### File Downloader
-
-It need to be upgrade**
-
-- File Download with Python3 and Tkinter:
-- Repoisitory [Downloader](https://github.com/bcarsoft/downloader)
+- **TO-DO**
 
 ### Contact
 
