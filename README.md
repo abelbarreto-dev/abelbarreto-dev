@@ -28,10 +28,8 @@ Main main skill is surelly to develop API's and Backend Development.
 ### Contact
 
 - 📫 How to reach me **abelbcarvalho.dev@gmail.com**
-- Another e-mail: **abelbarretodecarvalho@gmail.com**
-- [My Portfólio](https://abelbcarvalho.github.io/)
-
-![Visitor count](https://gpvc.arturio.dev/abelbarreto-dev) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+- 📧 Another e-mail: **abelbarretodecarvalho@gmail.com**
+- 🔗 [My Portfólio](https://abelbarreto-dev.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
