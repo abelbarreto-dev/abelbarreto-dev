@@ -7,7 +7,7 @@ My name is Abel and I'm a Python developer. Python is my favorite language. I've
 
 ### Speciality
 
-Main main skill is surelly to develop API's and Backend Development.
+Main main skill is surelly to development of API's and Backend Development.
 
 ### Current Projects
 
