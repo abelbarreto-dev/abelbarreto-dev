@@ -14,11 +14,18 @@ Main main skill is surelly to development of API's and Backend Development.
 - 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
 - 🔭 I'm working on [Earn Golden](https://github.com/abelbarreto-dev/earn-golden)
 - 🔭 I'm working on [SavePass-API](https://github.com/abelbarreto-dev/savepass-api)
-- 🔭 I'm working on [BRL TO USD API](https://github.com/abelbarreto-dev/brl-usd-api)
+- 🔭 I'm working on [BRL TO USD API](https://github.com/abelbarreto-dev/brl-usd-api) [COMPLETE]
 
 ### My Organizations
 
 - 💻 [BCarSoft](https://github.com/bcarsoft)
+
+### Better Projects Full
+Here I present you the projects I loved to work, bacause I learn so many concepts, for more informations, contact-me!
+- [BRL TO USD API](https://github.com/abelbarreto-dev/brl-usd-api)
+  - I learn how to configure github workflows to tests before merge;
+  - I usded a custom decorator to control how it send an error message;
+  - I used a type of dependencies to not create a new instance;
 
 ### Projects I worked...
 
