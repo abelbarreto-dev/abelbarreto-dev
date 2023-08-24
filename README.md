@@ -38,7 +38,6 @@ Here I present you the projects I loved to work, bacause I learn so many concept
 - 📧 Another e-mail: **abelbarretodecarvalho@gmail.com**
 - 🔗 [My Portfólio](https://abelbarreto-dev.github.io/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abelcarvalho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abelbcarvalho" height="30" width="40" /></a>
-</p>
+### Connect With Me
+
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelcarvalho/)
