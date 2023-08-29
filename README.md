@@ -12,7 +12,7 @@ See a list of my main specialities, I remmeber Python programming language is my
 
 ### Projects
 
-- 🔭 I'm working on [Earn Golden](https://github.com/abelbarreto-dev/earn-golden)
+- 🔭 I'm working on [Earn Golden](https://github.com/abelbarreto-dev/earn-golden) ACTUALLY
 
 - 🔭 I'm working on [Better Bet](https://github.com/abelbarreto-dev/better-bet)
 - 🔭 I'm working on [SavePass-API](https://github.com/abelbarreto-dev/savepass-api)
