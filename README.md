@@ -32,6 +32,16 @@ Here I present you the projects I loved to work, bacause I learn so many concept
 
 - [BRL TO USD API](https://github.com/abelbarreto-dev/brl-usd-api)
 
+### About My Account
+Look at my profile activity.
+
+[![Abel Carvalho's GitHub](https://github-readme-stats.vercel.app/api?username=abelbarreto-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Main Languages
+See what is the most I've worked.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelbarreto-dev&layout=compact&hide=Jupyter%20Notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 
 - 📫 How to reach me **abelbcarvalho.dev@gmail.com**
