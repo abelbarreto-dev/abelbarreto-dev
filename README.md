@@ -31,6 +31,7 @@ Here I present you the projects I loved to work, bacause I learn so many concept
 ### Projects I worked...
 
 - [BRL TO USD API](https://github.com/abelbarreto-dev/brl-usd-api)
+- [Decimal to Binary](https://github.com/abelbarreto-dev/convert-dec-bin)
 
 ### About My Account
 Look at my profile activity.
@@ -41,6 +42,11 @@ Look at my profile activity.
 See what is the most I've worked.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelbarreto-dev&layout=compact&hide=Jupyter%20Notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Projects Sites
+It's a list of my projects sites
+
+- [Convert Decimal <> Binary](https://abelbarreto-dev.github.io/convert-dec-bin)
 
 ### Contact
 
