@@ -48,6 +48,7 @@ See what is the most I've worked.
 It's a list of my projects sites
 
 - [Convert Decimal <> Binary](https://abelbarreto-dev.github.io/convert-dec-bin)
+- [Commands Formatter](https://abelbarreto-dev.github.io/commands-formatter)
 
 ### Contact
 
